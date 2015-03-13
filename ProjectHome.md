@@ -1,0 +1,1 @@
+My Struts2 Demo Hello. Uses Apache Struts2 libraries.
